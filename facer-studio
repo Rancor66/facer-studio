@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eu
+FACER_STUDIO_LAUNCHER="$(readlink -f -- "${BASH_SOURCE[0]}")"
+FACER_STUDIO_DIR="$(cd -- "$(dirname -- "$FACER_STUDIO_LAUNCHER")" && pwd)"
+cd "$FACER_STUDIO_DIR"
+exec python3 -m facer_studio "$@"

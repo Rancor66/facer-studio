@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Facer Studio
+Comment=Фоновое управление RGB-подсветкой клавиатуры Acer
+Exec=@EXEC@ --background
+Icon=@ICON@
+Terminal=false
+NoDisplay=true
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
+X-KDE-autostart-after=panel

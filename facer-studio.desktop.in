@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Facer Studio
+GenericName=RGB Keyboard Controller
+Comment=Управление RGB-подсветкой клавиатуры Acer
+Exec=@EXEC@
+Icon=@ICON@
+Terminal=false
+Categories=Settings;HardwareSettings;
+Keywords=RGB;Acer;Predator;Nitro;keyboard;подсветка;
+StartupNotify=true
+StartupWMClass=facer-studio
