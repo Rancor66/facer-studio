@@ -2,7 +2,8 @@
 
 # Facer Studio
 
-A native control panel for Acer Predator/Nitro RGB keyboards using the installed Facer driver.
+A native control panel for Acer Predator/Nitro RGB keyboards using the installed
+[Facer driver](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module).
 
 Features:
 

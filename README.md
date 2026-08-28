@@ -2,7 +2,8 @@
 
 # Facer Studio
 
-Нативная панель управления RGB-клавиатурой Acer Predator/Nitro для установленного драйвера Facer.
+Нативная панель управления RGB-клавиатурой Acer Predator/Nitro для
+установленного [драйвера Facer](https://github.com/JafarAkhondali/acer-predator-turbo-and-rgb-keyboard-linux-module).
 
 Возможности:
 
